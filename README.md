@@ -1,5 +1,6 @@
 # Affine-encryption
 
+
 1. First we give a list of lowercase alphabets and a list of uppercase alphabets.
 
 2. We go through the whole alphabet and we add the lowercase alphabet and the uppercase alphabet to each run.
